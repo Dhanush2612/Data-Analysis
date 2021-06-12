@@ -19,19 +19,19 @@ Create and Train Logistic Regression Model which predicts whether a given passen
 
 ## Structure :
 
-### Task 1. Collecting Data (Importing Modules and Loading Dataset)
+Task 1. Collecting Data (Importing Modules and Loading Dataset)
 
-### Task 2. CLEANING OF RAW DATA
+Task 2. CLEANING OF RAW DATA
 
-### Task 3.  EDA/FE (exploratory data analysis)/(feature extraction)
+Task 3.  EDA/FE (exploratory data analysis)/(feature extraction)
 
-### Task 4.  DATA SPLIT TRAIN/TEST
+Task 4.  DATA SPLIT TRAIN/TEST
 
-### Task 5.  MODEL SELECTION AND MODEL TRAINING ON TRAINING DATASET
+Task 5.  MODEL SELECTION AND MODEL TRAINING ON TRAINING DATASET
 
-### Task 6.  MODEL TEST ON TESING DATASET
+Task 6.  MODEL TEST ON TESING DATASET
 
-### Task 7.  MODEL EVALUTION
+Task 7.  MODEL EVALUTION
 
-### Task 8. FINAL MODEL AND RESULT
+Task 8. FINAL MODEL AND RESULT
 
