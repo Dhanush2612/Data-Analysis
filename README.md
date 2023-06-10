@@ -1,6 +1,6 @@
 # Data Analysis
  
-# 1.House Prices P
+# 1.House Prices Prediction
 Create and Train Model which predicts house prices in a city (Bangalore).
 
 # 2.Titanic_Survival_Prediction
